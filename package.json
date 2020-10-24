@@ -11,6 +11,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "nodemon": "^2.0.6",
+    "npm-watch": "^0.7.0",
     "save": "^2.4.0"
   }
 }
